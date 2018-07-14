@@ -679,8 +679,8 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
     difficulty: "난이도"
     gold_collected: "수집된 골드"
 #    survival_time: "Survived"
-#    defeated: "Enemies Defeated"
-#    code_length: "Lines of Code"
+#    defeated: "적을 쓰러뜨렸다"
+#    code_length: "코드의 줄 수"
 #    score_display: "__scoreType__: __score__"
 
   inventory:
@@ -694,9 +694,9 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
     restricted: "(이 레벨에서는 사용불가)"
     equip: "장착"
     unequip: "해제"
-#    warrior_only: "Warrior Only"
-#    ranger_only: "Ranger Only"
-#    wizard_only: "Wizard Only"
+#    warrior_only: "전사 전용"
+#    ranger_only: "수색대원 전용"
+#    wizard_only: "마법사 전용"
 
   buy_gems:
     few_gems: "gem 몇개"
@@ -719,10 +719,10 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
     prompt_body: "더 얻기 위해 계속 플레이 하세요."
 
   subscribe:
-#    best_deal: "Best Deal!"
-#    confirmation: "Congratulations! You now have a CodeCombat Premium Subscription!"
-#    premium_already_subscribed: "You're already subscribed to Premium!"
-#    subscribe_modal_title: "CodeCombat Premium"
+    best_deal: "좋은 기회!"
+    confirmation: "축하합니다! 당신은 이제 코드컴뱃 프리미엄 구독자입니다!"
+    premium_already_subscribed: "당신은 이미 프리미엄 구독중입니다.!"
+    subscribe_modal_title: "코드컴뱃 "
     comparison_blurb: "코드컴뱃을 구독하셔서 당신의 스킬을 날카롭게하십시오!" # {change}
     must_be_logged: "로그인부터 먼저 하셔야합니다.메뉴에서 계정을 만들거나 로그인해주세요."
     subscribe_title: "구독" # Actually used in subscribe buttons, too
